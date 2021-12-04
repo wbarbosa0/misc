@@ -1,0 +1,3 @@
+## Numeros de telefone válidos no Brasil 
+## Não inclui: 0800, 0300, 0500, 0900 e números de serviço (Tri, tetra e pentadígitos)
+([14689][1-9]|2[12478]|5[1345]|3[1-578]|7[134579])((9[2-9]|[2-5])[0-9]{7})
